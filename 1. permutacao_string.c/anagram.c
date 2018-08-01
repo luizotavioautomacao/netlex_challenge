@@ -9,8 +9,8 @@
 /* // **********  ////    WINDOWS: gcc anagram.c -o obj_exec && obj_exec 
 
 /* // **********  ////    Author: Luiz Otávio Mendes de Oliveira
-/* // **********  ////    Creation date:    30jul2018
-/* // **********  ////    Revision date:    30jul2018  
+/* // **********  ////    Creation date:    31jul2018
+/* // **********  ////    Revision date:    31jul2018  
 /* // **********  ////    ******************************************************************/
 
 #include <stdio.h> // printf, puts, scanf
