@@ -1,0 +1,17 @@
+1 - Descreva com suas palavras um algoritmo que determine se duas strings são permutação uma da outra.
+As strings, que nunca serão vazias, contêm palavras da língua inglesa em caixa baixa e sem pontuação. 
+Seu algoritmo deve ter complexidade O(n) e usar o mínimo de memória possível.
+
+R - Transformando cada char do anagrama em um int (ASCII) é possível então ordenar os vetores de int (números).
+Se todas os valores dos dois vetores de int são iguais, então eles são anagramas.
+
+Como rodar o projeto?
+Abrir com o prompt (Windows) ou terminal (GNU Linux) no diretório do arquivo "obj_exec"
+Basta ir até ao diretório (por exemplo a pasta downloads) e então clicar com o botão direito e escolher a opção abrir com o terminal ou prompt.
+Então em seguida colar o código:
+	Linux: ./obj_exec 
+	Windows: obj_exec
+
+Após digitar enter, o programa será executado.
+
+
